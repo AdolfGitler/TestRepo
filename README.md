@@ -3,8 +3,7 @@ TestRepo
 
 Test
 
-<<<<<<< HEAD
-o/ NO hue hue
-=======
+
+o/ NO hue 
 o/ hue hue hue
->>>>>>> Panzer
+
